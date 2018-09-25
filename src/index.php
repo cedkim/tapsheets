@@ -9,7 +9,7 @@
 $serverName = "Tapsheets";
 
 // Do you use Algolia's Community plan?
-$algoliaCommunity = false
+$algoliaCommunity = false;
 ?>
 <!DOCTYPE html>
 <html>
