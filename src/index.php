@@ -4,7 +4,11 @@
 // This is where you can change all
 // available settings for your
 // Tapsheets server.
+
+// What's your server's name?
 $serverName = "Tapsheets";
+
+// Do you use Algolia's Community plan?
 $algoliaCommunity = false
 ?>
 <!DOCTYPE html>
